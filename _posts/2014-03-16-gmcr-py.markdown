@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "gmcr-py"
+date:   2014-03-16 23:39:35
+categories: project
+---
+
+Inspired by a course I took with [Professor Keith Hipel][hipel], I developed a new piece of modelling software for people working with the Graph Model for Conflict Resolution.  Written in python, the package supports the construction and analysis of conflicts using both a command line interface and a GUI.  Many thanks to Rami Kinsara who has played a major role in this project.
+
+Source files for the program as well as a standalone windows installer are available on [github][gmcr-py].
+
+[gmcr-py]: https://github.com/onp/gmcr-py
+[hipel]: http://www.systems.uwaterloo.ca/Faculty/Hipel/
