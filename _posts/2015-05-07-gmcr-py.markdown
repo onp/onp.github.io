@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "gmcr-py"
+date:   2014-03-16 23:39:35
+categories: project
+---
+
+A quick way of sketching piping layouts.
+
+See in it action on [io][pipe], or get the source on [github][source].
+
+[pipe]: https://onp.github.io/pipe
+[source]: https://github.com/onp/pipe
+
